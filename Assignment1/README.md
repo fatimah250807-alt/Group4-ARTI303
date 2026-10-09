@@ -8,13 +8,13 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 ## Group Members
 
-| Name  | Role |
-|--- | --- |
-| Fatima Alharbi | Leader |
-| Fatima Alhajri | Member |
-| Sara Alshmrani | Member |
-| Noura Alsultan | Member |
-| Baraa Derbaa | Member |
+| Name  | ID | Role |
+|--- | --- | --- |
+| Fatimah Alharbi | 2250003832 | Leader |
+| Fatima Alhajri | 2250006774 | Member |
+| Sara Alshmrani | 2250001290  |Member |
+| Noura Alsultan | 2250005723 |Member |
+| Baraa Derbaa | 2250009223 | Member |
 
 
 > Remove any unused member row if your group has fewer than 6 members.
@@ -27,8 +27,6 @@ The group must choose **one public dataset** that meets all of the following req
 - At least **100,000 rows**
 - At least **one text/category column**
 - At least **two numeric columns**
-
-### Dataset Link
 
 ### Dataset Link
 
